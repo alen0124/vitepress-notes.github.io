@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r,a}from"./app.fa774493.js";const f=JSON.parse('{"title":"HTML 入门篇","description":"","frontmatter":{},"headers":[],"relativePath":"01.basics/02.html/01.入门篇.md"}'),l={name:"01.basics/02.html/01.入门篇.md"},o=a("",6),s=[o];function i(n,_,c,h,p,m){return r(),t("div",null,s)}const T=e(l,[["render",i]]);export{f as __pageData,T as default};

@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as r,a}from"./app.fa774493.js";const S=JSON.parse('{"title":"前端基础","description":"","frontmatter":{},"headers":[],"relativePath":"01.basics/index.md"}'),s={name:"01.basics/index.md"},n=a("",4),o=[n];function i(_,c,l,d,p,g){return r(),e("div",null,o)}const f=t(s,[["render",i]]);export{S as __pageData,f as default};

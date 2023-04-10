@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as r,a as t}from"./app.fa774493.js";const S=JSON.parse('{"title":"ES6","description":"","frontmatter":{},"headers":[],"relativePath":"01.basics/05.ES6+/01.ES6.md"}'),s={name:"01.basics/05.ES6+/01.ES6.md"},o=t("",5),l=[o];function n(i,c,_,h,p,f){return r(),a("div",null,l)}const d=e(s,[["render",n]]);export{S as __pageData,d as default};
